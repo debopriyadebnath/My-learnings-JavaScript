@@ -26,4 +26,3 @@ console.log(typeof name) //string
 console.log(typeof age) //number
 console.log(typeof isLoggedIn) //boolean
 
- 
